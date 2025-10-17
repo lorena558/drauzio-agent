@@ -1,0 +1,37 @@
+{
+  "Dores e Febre": [
+    "Analgésico e Antitérmico",
+    "Anti-enxaqueca",
+    "Cólica"
+  ],
+  "Anti-inflamatórios": [
+    "Anti-inflamatórios Corticóides",
+    "Outros Anti-inflamatórios"
+  ],
+  "Digestivo": [
+    "Antiácido",
+    "Úlcera e Gastrite",
+    "Outros Digestivos"
+  ],
+  "Doenças Crônicas": [
+    "Hipertensão",
+    "Diabetes",
+    "Colesterol"
+  ],
+  "Medicamentos Controlados": [
+    "Outros Antibióticos",
+    "Depressão"
+  ],
+  "Dermatológicos": [
+    "Antiacne",
+    "Dermatológicos Tópico"
+  ],
+  "Gripes e Resfriados": [
+    "Antigripais",
+    "Expectorante"
+  ],
+  "Antialérgicos": [
+    "Antialérgicos Sistêmicos",
+    "Antialérgicos Tópicos"
+  ]
+}

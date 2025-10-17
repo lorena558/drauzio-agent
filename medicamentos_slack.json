@@ -1,0 +1,52 @@
+[
+  {
+    "nome": "dipirona",
+    "categoria": "Dores e Febre > Analgésico e Antitérmico",
+    "confiabilidade": "alta"
+  },
+  {
+    "nome": "paracetamol",
+    "categoria": "Dores e Febre > Analgésico e Antitérmico",
+    "confiabilidade": "alta"
+  },
+  {
+    "nome": "ibuprofeno",
+    "categoria": "Anti-inflamatórios > Outros Anti-inflamatórios",
+    "confiabilidade": "alta"
+  },
+  {
+    "nome": "omeprazol",
+    "categoria": "Digestivo > Úlcera e Gastrite",
+    "confiabilidade": "alta"
+  },
+  {
+    "nome": "losartana",
+    "categoria": "Doenças Crônicas > Hipertensão",
+    "confiabilidade": "alta"
+  },
+  {
+    "nome": "enalapril",
+    "categoria": "Doenças Crônicas > Hipertensão",
+    "confiabilidade": "alta"
+  },
+  {
+    "nome": "metformina",
+    "categoria": "Doenças Crônicas > Diabetes",
+    "confiabilidade": "alta"
+  },
+  {
+    "nome": "sinvastatina",
+    "categoria": "Doenças Crônicas > Colesterol",
+    "confiabilidade": "alta"
+  },
+  {
+    "nome": "amoxicilina",
+    "categoria": "Medicamentos Controlados > Outros Antibióticos",
+    "confiabilidade": "alta"
+  },
+  {
+    "nome": "diclofenaco",
+    "categoria": "Anti-inflamatórios > Outros Anti-inflamatórios",
+    "confiabilidade": "alta"
+  }
+]

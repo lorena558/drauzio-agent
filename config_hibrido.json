@@ -1,0 +1,22 @@
+{
+  "sistema": "Drauzio Híbrido",
+  "versao": "1.0",
+  "slack_bot": {
+    "nome": "DrauzioBot",
+    "comandos": [
+      "/categorizar",
+      "/ean",
+      "/ajuda"
+    ],
+    "url_servidor": "https://seu-servidor.com/slack"
+  },
+  "plataforma_completa": {
+    "url": "esta-plataforma.com",
+    "funcoes": [
+      "lotes",
+      "analise_clinica",
+      "relatorios"
+    ],
+    "precisao": "98.6%"
+  }
+}
