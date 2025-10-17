@@ -1,12 +1,21 @@
+import ssl
+import urllib3
+import os
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+ssl._create_default_https_context = ssl._create_unverified_context
+os.environ['PYTHONHTTPSVERIFY'] = '0'
 
 from flask import Flask, request, jsonify
 import json
-import os
 from datetime import datetime
 
 app = Flask(__name__)
 
-# Carregar bases de dados
+# Resto do seu código continua igual...
+
+
+# Carregar bases de dadosa
 def carregar_dados():
     """Carrega as bases de medicamentos e taxonomia"""
     try:
